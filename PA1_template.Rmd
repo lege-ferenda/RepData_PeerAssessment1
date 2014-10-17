@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "PA1_template.Rmd"
 author: "D.F"
 date: "Friday, October 17, 2014"
@@ -190,3 +191,29 @@ print(plot_weekend)
 
 
 
+=======
+title: "Reproducible Research: Peer Assessment 1"
+output: 
+  html_document:
+    keep_md: true
+---
+
+
+## Loading and preprocessing the data
+
+
+
+## What is mean total number of steps taken per day?
+
+
+
+## What is the average daily activity pattern?
+
+
+
+## Imputing missing values
+
+
+
+## Are there differences in activity patterns between weekdays and weekends?
+>>>>>>> c0525389ea6e8a244d4766efa36364c84cc1fff8
